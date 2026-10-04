@@ -16,9 +16,10 @@ EXPO_PUBLIC_SUPABASE_ANON_KEY=<tu-anon-key>
 
 ## 📥 Instrucciones de Instalación
 
-1. **Abrir la carpeta del proyecto**:
+1. **Clonar el repositorio y entrar a la carpeta**:
    ```bash
-   cd "TP3-React Native"
+   git clone https://github.com/candelarojas1/ibank-auth-supabase.git
+   cd ibank-auth-supabase
    ```
 
 2. **Instalar las dependencias del proyecto**:

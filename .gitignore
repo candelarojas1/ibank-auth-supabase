@@ -48,3 +48,8 @@ example
 # archivos locales
 scratch/
 .claude/
+
+# configuración del editor y de asistentes de IA
+.vscode/
+AGENTS.md
+CLAUDE.md
